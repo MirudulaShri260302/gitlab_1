@@ -15,4 +15,4 @@ def test_fun3():
     assert fun3(0, 10) == 0
 
 def test_fun4():
-    assert fun4(2, 3) == 11  # (2+3) + (2-3) + (2*3) = 5 + (-1) + 6 = 10
+    assert fun4(2, 3) == 10 
